@@ -8,6 +8,6 @@ CREATE TABLE proveedores (
 INSERT INTO proveedores(proveedor,nombre_contacto,email_contacto)
 VALUES
 ('ACME','Bruce Wayne','bruce@acme.com'),
-('Cloud9','Diana Prince','diana@scribe.com');
+('Cloud9','Diana Prince','diana@cloud9.com');
 
 SELECT * FROM proveedores;
